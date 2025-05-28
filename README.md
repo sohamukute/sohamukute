@@ -21,12 +21,6 @@ I'm a second-year Electronics Engineering student at Veermata Jijabai Technologi
 - Domains: Robotics, Control Systems, Embedded Development, Low-Level Optimization, Media programming and graphical libraries.
 
 
-🤖 Robotics Journey
-
-Robotics has been my passion since I began exploring autonomous systems at VJTI as a member of the Society of Robotics and Automation (SRA). I’ve worked on several projects combining hardware, software, and control theory to build autonomous robots capable of real-time decision-making and precise task execution. These include a fire-extinguishing robot using sensor fusion and PID control, a ROS2-based logistics CoBot for dynamic object handling, and an IoT-enabled agriculture bot with a Micro-ROS-controlled manipulator for weed removal. I also developed a gyroscopically stabilized glider using ESP32 and participated in simulation challenges focused on path planning and autonomous navigation.
-
-I’m always exploring new ways to push the boundaries of robotics, whether it’s through advanced control techniques, computer vision, or IoT integration.
-
 
 🎯 What I’m Working On
 
